@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/h_menu_utama.unity
+  isLoaded: 1
+  isActive: 1
